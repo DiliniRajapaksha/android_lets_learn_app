@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LetsLearnFruitsActivity!</string>
+    <string name="app_name">Lets Learn Fruits</string>
+    <string name="menu_item_pref">Preferences</string>
+    <string name="menu_item_play">Play</string>
+    <string name="menu_item_Help">Help</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_prev">Prev</string>
+    <string name="btn_replay">Re-play</string>
+
+</resources>
